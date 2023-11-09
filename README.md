@@ -6,7 +6,7 @@
 - 🌱 Estudo sistema de informção na (uni9) 4º semestre
 - 📫 signorelli.midiaweb@gmail.com
 - 😄 Pronouns: Ele você
-- 💻Tecnologias que melhor desempennho HTML5, CSS3, JAVASCRIPT, JAVA, SQLSERVER E OROCLE DATABASE 
+- 💻Tecnologias que melhor desempennho HTML5, CSS3, JAVASCRIPT,C#, React E OROCLE DATABASE 
 
 <div>
 <a href="https://github.com/Mariosignorelli">
